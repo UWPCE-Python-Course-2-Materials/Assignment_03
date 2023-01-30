@@ -49,7 +49,6 @@ The following files need to be submitted:
 * ``main.py``
 * ``test_main.py``
 * ``menu.py``
-* ``test_menu.py``
 * ``user_status.py``
 * ``test_user_status.py``
 * ``users.py``
