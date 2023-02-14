@@ -50,6 +50,7 @@ The following files need to be submitted:
 * ``test_main.py``
 * ``menu.py``
 * ``user_status.py``
+* ``test_user_status.py``
 * ``users.py``
 * ``test_users.py``
 * ``socialnetwork_model.py``
